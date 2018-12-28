@@ -11,20 +11,10 @@ https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 The Dependencies for this jupyter-notebook are:
 ```
 -Python3
-```
-```
 -NumPy
-```
-```
 -matplotlib
-```
-```
 -sklearn
-```
-```
 -pandas
-```
-```
 -keras
 ```
 
